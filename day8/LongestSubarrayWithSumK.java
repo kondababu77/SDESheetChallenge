@@ -1,4 +1,4 @@
-import java.util.*
+import java.util.*;
 public class LongestSubarrayWithSumK {
     public int longestSubarray(int[] arr, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
